@@ -1,0 +1,7 @@
+C:\Users\bawilliams.REDVENTURES\source\repos\C#\C-VeryHard\C-VeryHard\bin\Debug\C-VeryHard.exe.config
+C:\Users\bawilliams.REDVENTURES\source\repos\C#\C-VeryHard\C-VeryHard\bin\Debug\C-VeryHard.exe
+C:\Users\bawilliams.REDVENTURES\source\repos\C#\C-VeryHard\C-VeryHard\bin\Debug\C-VeryHard.pdb
+C:\Users\bawilliams.REDVENTURES\source\repos\C#\C-VeryHard\C-VeryHard\obj\Debug\C-VeryHard.csprojResolveAssemblyReference.cache
+C:\Users\bawilliams.REDVENTURES\source\repos\C#\C-VeryHard\C-VeryHard\obj\Debug\C-VeryHard.csproj.CoreCompileInputs.cache
+C:\Users\bawilliams.REDVENTURES\source\repos\C#\C-VeryHard\C-VeryHard\obj\Debug\C-VeryHard.exe
+C:\Users\bawilliams.REDVENTURES\source\repos\C#\C-VeryHard\C-VeryHard\obj\Debug\C-VeryHard.pdb
